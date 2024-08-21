@@ -65,4 +65,4 @@ function downloadDiagram() {
     document.body.appendChild(downloadLink);
     downloadLink.click();
     document.body.removeChild(downloadLink);
-      }
+}
